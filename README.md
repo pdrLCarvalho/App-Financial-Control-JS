@@ -8,5 +8,5 @@ The idea of this app is to allow the user to record their expenses. This applica
 * On the 'Consult' page, you can review all your expenses.
 * By entering data in the available fields and clicking the search button, you can filter your expenses according to the entered information.
 * If you wish to remove an expense from the list, just click the red button corresponding to the expense.
-* 
-<a href="https://pdrlcarvalho.github.io/App-Financial-Control-JS/">Financial Control</a>
+  
+<a href="https://pdrlcarvalho.github.io/App-Financial-Control-JS/">Go to Financial Control</a>
